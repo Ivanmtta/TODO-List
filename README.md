@@ -1,2 +1,8 @@
-# TODO-List
-TO DO List web application with CRUD funcitonality
+<h1 align="center">TODO-List</h1>
+
+Simple TO DO List web application made using PHP for the back-end and Bootstrap 4 for the front-end with CRUD(create, read, update and delete) functionality using MySQL for data persistence. 
+---
+## Demo
+
+<img src = "Demo.gif">
+---
