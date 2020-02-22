@@ -4,4 +4,4 @@
 
 ## Demo
 
-<img src = "Demo.gif" style="width: 80%; height: auto;">
+<img src = "Demo.gif" style="width: 50%; height: auto;">
